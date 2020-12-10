@@ -1,4 +1,4 @@
-### Hi there 👋
+![Senaris Github Stats](https://github-readme-stats.vercel.app/api?username=senaris&count_private=true)
 
 <!--
 **Senaris/Senaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
