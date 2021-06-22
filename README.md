@@ -4,4 +4,4 @@
 
 
 - 🔭 I’m currently working on ZinGuard
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
